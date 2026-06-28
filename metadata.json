@@ -1,0 +1,6 @@
+{
+  "name": "Rover BLE Controller",
+  "description": "Premium glassmorphic controller for an ESP32-WROOM-32 rover via Bluetooth Low Energy with live telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
